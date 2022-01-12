@@ -145,7 +145,7 @@ eval "$(starship init zsh)"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias ls="exa --icons --group-directories-first -h"
+alias ls="exa --icons --group-directories-first"
 alias ll="exa --icons --group-directories-first -l"
 alias vim=nvim
 alias vi=nvim

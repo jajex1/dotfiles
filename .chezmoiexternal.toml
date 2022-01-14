@@ -22,4 +22,4 @@
   stripComponents = 1
   refreshPeriod = "168h"
 
-{{- end}
+{{- end}}
